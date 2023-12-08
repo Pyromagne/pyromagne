@@ -1,6 +1,9 @@
 <table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%;">
+      <a href="https://github.com/Pyromagne">
+        <img scr="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne)](https://github.com/anuraghazra/github-readme-stats">
+      </a>
     </td>
     <td style="width: 50%;">
       <a href="https://github.com/Pyromagne">
@@ -23,5 +26,7 @@
   </tr>
 </table>
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne)](https://github.com/anuraghazra/github-readme-stats)
 
 
