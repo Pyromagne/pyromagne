@@ -1,3 +1,7 @@
+<a href="https://github.com/Pyromagne">
+      <img align="center" style="width: 600px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+</a>
+
 <table align="center" style="width: 100%; border-collapse: collapse;">  
   <tr>
   <td style="width: 50%;">
