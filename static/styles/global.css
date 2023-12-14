@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 24px;
+    color: white;
+    /* outline: 1px solid white; */
+}
+
+html {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #121212;
+}
+
+.background{
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background-color: transparent;
+    z-index: -1;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #21222C;
+  }
+::-webkit-scrollbar {
+    width: 0.50%;
+    background-color: #21222C;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #42434d;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #b2b6dd;
+}
