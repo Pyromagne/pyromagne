@@ -6,7 +6,7 @@
       </a>
     </td>
     <td>
-      <a>
+      <a href="https://wakatime.com/@Pyromagne">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne&v=2)](https://githubcom/anuraghazra/github-readme-stats">
       </a>
     </td>
@@ -24,5 +24,7 @@
     </td>
   </tr>
 </table>
+
+[![wakatime](https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg)](https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6)
 
 
