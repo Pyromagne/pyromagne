@@ -6,7 +6,7 @@
       </a>
     </td>
     <td>
-      <a>
+      <a href="https://wakatime.com/@Pyromagne">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne&v=2)](https://githubcom/anuraghazra/github-readme-stats">
       </a>
     </td>
