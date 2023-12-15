@@ -1,13 +1,12 @@
+[![wakatime](https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg?style=for-the-badge)](https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6)
+[![GitHub followers](https://img.shields.io/github/followers/pyromagne?style=for-the-badge&logo=github)](https://github.com/Pyromagne)
+![GitHub User's stars](https://img.shields.io/github/stars/pyromagne?style=for-the-badge)
+
 <table align="center" style="width: 100%;">
   <tr>
-    <td style="width: 50%;">
+    <td style="width: 50%;" colspan="2">
       <a href="https://github.com/Pyromagne">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
-      </a>
-    </td>
-    <td>
-      <a href="https://wakatime.com/@Pyromagne">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne&v=2)](https://githubcom/anuraghazra/github-readme-stats">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne\&layout=compact">
       </a>
     </td>
   </tr>
@@ -25,6 +24,5 @@
   </tr>
 </table>
 
-[![wakatime](https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg)](https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6)
 
 
