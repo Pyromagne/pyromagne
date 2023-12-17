@@ -17,7 +17,7 @@
       <a href="https://github.com/Pyromagne">
         <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
       </a>
-      <a href="https://github.com/Pyromagne" align="right">
+      <a href="https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6" align="right">
   <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=pyromagne\&layout=compact&theme=tokyonight&hide_border=true&custom_title=Time%20Spent%20Coding">
 </a>
       </td>
