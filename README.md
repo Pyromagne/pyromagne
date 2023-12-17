@@ -3,12 +3,11 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/pyromagne?logo=coveralls&style=for-the-badge&color=%23FFD500)
 ![Static Badge](https://img.shields.io/badge/Favorite_Language-C%2B%2B-blue?style=for-the-badge&logo=Cplusplus&color=%2300599C)
 
-
 <table align="center" style="width: 100%;">
   <tr>
     <td style="width: 50%;" colspan="2">
       <a href="https://github.com/Pyromagne">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne\&layout=compact">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
       </a>
     </td>
   </tr>
@@ -25,6 +24,10 @@
     </td>
   </tr>
 </table>
+
+<a href="https://github.com/Pyromagne">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne\&layout=compact">
+</a>
 
 
 
