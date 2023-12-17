@@ -7,7 +7,7 @@
   <tr>
   <td>
     <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=pyromagne&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=pyromagne&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
       </a>
     <a href="https://github.com/Pyromagne">
       <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pyromagne&amp;theme=tokyonight&amp;hide_border=true" alt="github streak">
@@ -18,9 +18,10 @@
         <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
       </a>
       <a href="https://github.com/Pyromagne" align="right">
-  <img align="right" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=pyromagne\&layout=compact">
+  <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=pyromagne\&layout=compact&theme=tokyonight&hide_border=true&custom_title=Time%20Spent%20Coding">
 </a>
       </td>
   </tr>
 </table>
 
+![pyromagne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
