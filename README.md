@@ -40,6 +40,7 @@
     <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyromagne&theme=tokyonight" alt="github stats">
   </a>
   <link rel="stylesheet" href="static/styles/md.css">
+</center>
 
 <h3>Languages</h3>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -52,7 +53,7 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img width="40px" src="static/assets/svg/bash.svg" />
-</center>
+
 
 ### Databases
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
