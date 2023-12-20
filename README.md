@@ -1,18 +1,16 @@
-<center>
-  <a href="https://wakatime.com/@Pyromagne">
-    <img src="https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg?style=for-the-badge&color=%23ffffff">
-  </a>
-  <a href="https://github.com/Pyromagne">
-    <img src="https://img.shields.io/github/followers/pyromagne?style=for-the-badge&logo=github&color=%23d12a59">
-  </a>
-  <a href="https://github.com/Pyromagne">
-    <img src="https://img.shields.io/github/stars/pyromagne?logo=coveralls&style=for-the-badge&color=%23FFD500">
-  </a>
-  <a href="https://github.com/Pyromagne">
-    <img src="https://img.shields.io/badge/Favorite_Language-C%2B%2B-blue?style=for-the-badge&logo=Cplusplus&
-  color=%2300599C">
-  </a>
-</center>
+<a href="https://wakatime.com/@Pyromagne">
+  <img src="https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg?style=for-the-badge&color=%23ffffff">
+</a>
+<a href="https://github.com/Pyromagne">
+  <img src="https://img.shields.io/github/followers/pyromagne?style=for-the-badge&logo=github&color=%23d12a59">
+</a>
+<a href="https://github.com/Pyromagne">
+  <img src="https://img.shields.io/github/stars/pyromagne?logo=coveralls&style=for-the-badge&color=%23FFD500">
+</a>
+<a href="https://github.com/Pyromagne">
+  <img src="https://img.shields.io/badge/Favorite_Language-C%2B%2B-blue?style=for-the-badge&logo=Cplusplus&
+color=%2300599C">
+</a>
 
 <table>
   <tr>
@@ -42,16 +40,16 @@
 </center>
 
 <h3>Languages</h3>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img width="40px" src="static/assets/svg/bash.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img align="left" width="40px" src="static/assets/svg/bash.svg" />
 
 
 ### Databases
