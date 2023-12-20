@@ -92,10 +92,16 @@
 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=10&width=500">
 
-[![Static Badge](https://img.shields.io/badge/Spotify-Pyromagne-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f)
+<a href="https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f">
+  <img width="400" src="https://img.shields.io/badge/Spotify-Pyromagne-1DB954?style=for-the-badge&logo=spotify&logoColor=white)">
+</a>
 
-[![Static Badge](https://img.shields.io/badge/Last.fm-Pyromagne-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Pyromagne)
+<a href="https://www.last.fm/user/Pyromagne">
+  <img width="400" src="https://img.shields.io/badge/Last.fm-Pyromagne-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white">
+</a>
 
+
+<img width="400" src="https://cdn.dribbble.com/users/1934070/screenshots/4142214/media/445270439a1db7d8487ff5f44b9f0c33.gif">
 
 
 
