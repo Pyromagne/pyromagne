@@ -76,6 +76,8 @@
 
 ### Environment
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+
 
 
 ### Tools
@@ -87,6 +89,12 @@
 ![GNU Privacy Guard](https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 
 <br>
+
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=10&width=500">
+
+[![Static Badge](https://img.shields.io/badge/Spotify-Pyromagne-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f)
+
+[![Static Badge](https://img.shields.io/badge/Last.fm-Pyromagne-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Pyromagne)
 
 
 
