@@ -39,7 +39,6 @@
   <a href="https://github.com/Pyromagne">
     <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyromagne&theme=tokyonight" alt="github stats">
   </a>
-  <link rel="stylesheet" href="static/styles/md.css">
 </center>
 
 <h3>Languages</h3>
