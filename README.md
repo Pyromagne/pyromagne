@@ -92,7 +92,6 @@
 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=10&width=500">
 
-<img width="34" src="static/assets/icons8-audio-wave.gif">
 <a href="https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f">
   <img width="125" src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
@@ -100,8 +99,6 @@
 <a href="https://www.last.fm/user/Pyromagne">
   <img width="125" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white">
 </a>
-
-<img width="250" src="https://static.wixstatic.com/media/1ac9ab_a83cb16297b94921ada14320a605264e~mv2.gif">
 
 ### Accounts
 
