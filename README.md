@@ -100,7 +100,7 @@
   <img width="125" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white">
 </a>
 
-<img width="250" src="https://cdn.dribbble.com/users/1237300/screenshots/6478927/__-1_1_____.gif">
+<img width="250" src="https://static.wixstatic.com/media/1ac9ab_a83cb16297b94921ada14320a605264e~mv2.gif">
 
 ### Accounts
 
