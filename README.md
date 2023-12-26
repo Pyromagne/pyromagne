@@ -92,20 +92,14 @@
 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=10&width=500">
 
-<a href="https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f">
-  <img width="125" src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-
-<a href="https://www.last.fm/user/Pyromagne">
-  <img width="125" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white">
-</a>
-
 ### Accounts
 
 [![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pyromagne/)
 [![Static Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Pyromagne314)
-[![Static Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://pyromagne.itch.io/)
 [![Static Badge](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pyromagne2280)
+[![Static Badge](https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f)
+[![Static Badge](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Pyromagne)
+[![Static Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://pyromagne.itch.io/)
 
 
 
