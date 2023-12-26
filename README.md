@@ -92,6 +92,7 @@
 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=10&width=500">
 
+<img width="34" src="static/assets/icons8-audio-wave.gif">
 <a href="https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f">
   <img width="125" src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
