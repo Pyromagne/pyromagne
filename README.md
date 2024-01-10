@@ -71,6 +71,10 @@
 ![Static Badge](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Discord.js-11121D?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+
 
 
 
