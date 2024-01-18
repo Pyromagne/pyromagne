@@ -94,7 +94,7 @@
 
 <br>
 
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=10&width=500">
+<!-- <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=5&width=500">
 
 ### Accounts
 
@@ -120,7 +120,7 @@
 
 <a href="https://pyromagne.itch.io/">
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge" width="125">
-</a><br>
+</a><br> -->
 
 
 
