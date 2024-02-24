@@ -91,6 +91,8 @@
 ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![GNU Privacy Guard](https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-24E1E?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E)
+
 
 <br>
 
