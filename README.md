@@ -8,24 +8,24 @@
   <tr>
     <td>
       <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=pyromagne&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
+        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=pyromagne&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
       </a>
     </td>
     <td>
       <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pyromagne&theme=tokyonight&hide_border=true&card_width=500" alt="github streak">
+        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pyromagne&theme=transparent&hide_border=true&card_width=500" alt="github streak">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6">
-        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=pyromagne\&layout=compact&theme=tokyonight&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500">
+        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=pyromagne\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
       </a>
     </td>
     <td>
       <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=500">
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
       </a>
     </td>
   </tr>
