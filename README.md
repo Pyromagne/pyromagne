@@ -42,17 +42,18 @@
 </center>
 
 <div align="center">
-<h3>Languages</h3>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
-<i style="font-size: 48px" class="devicon-c-plain colored"></i>
-<i style="font-size: 48px" class="devicon-cplusplus-plain colored"></i>
-<i style="font-size: 48px" class="devicon-csharp-plain colored"></i>
-<i style="font-size: 48px" class="devicon-java-plain colored"></i>
-<i style="font-size: 48px" class="devicon-javascript-plain colored"></i>
-<i style="font-size: 48px" class="devicon-php-plain colored"></i>
-<i style="font-size: 48px" class="devicon-html5-plain colored"></i>
-<i style="font-size: 48px" class="devicon-css3-plain colored"></i>
-<i style="font-size: 48px" class="devicon-markdown-original"></i>
+
+### Languages
+
+<img width="48" src="svgs/cplusplus-plain.svg"/>
+<img width="48" src="svgs/c-plain.svg"/>
+<img width="48" src="svgs/csharp-plain.svg"/>
+<img width="48" src="svgs/java-plain.svg"/>
+<img width="48" src="svgs/javascript-plain.svg"/>
+<img width="48" src="svgs/php-plain.svg"/>
+<img width="48" src="svgs/html5-plain.svg"/>
+<img width="48" src="svgs/css3-plain.svg"/>
+<img width="48" src="svgs/markdown-original.svg"/>
 
 <br><br><br>
 
