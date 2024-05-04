@@ -7,7 +7,6 @@
   
 </div>
 
-
 <table>
   <tr>
     <td>
@@ -81,6 +80,7 @@
 
 ### Frameworks & libraries
 ![Discord.js](https://img.shields.io/badge/Discord.js-11121D?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
@@ -130,10 +130,7 @@
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge" width="125">
 </a><br> -->
 
-
-
-
-
-
-
-
+<!-- <div align="center" style="background-color: white; border-radius:50px">
+  <img src="https://wakatime.com/share/@Pyromagne/2f36743f-8971-45c1-afa8-fb31237baa31.svg" width="45%" alt="Wakatime Activity">
+  <img src="https://wakatime.com/share/@Pyromagne/b57832af-67b4-434b-86bf-890046385339.svg" width="45%" alt="Wakatime Activity">
+</div> -->
