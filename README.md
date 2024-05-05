@@ -3,7 +3,6 @@
   [![Wakatime](https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@Pyromagne)
   [![GitHub Followers](https://img.shields.io/github/followers/pyromagne?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/Pyromagne)
   [![GitHub Stars](https://img.shields.io/github/stars/pyromagne?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/Pyromagne)
-  [![Favorite Language](https://img.shields.io/badge/Favorite_Language-C%2B%2B-blue?style=for-the-badge&logo=Cplusplus&color=%2300599C)](https://github.com/Pyromagne)
   
 </div>
 
@@ -66,6 +65,7 @@
 <br>
 
 ### Code Editor & IDEs
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
@@ -99,6 +99,7 @@
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![GNU Privacy Guard](https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![UML](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml&logoColor=black)
 ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)
 
 </div>
