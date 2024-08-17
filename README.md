@@ -56,9 +56,9 @@
 <br><br><br>
 
 ### Databases & Hosting
-![GitHub Pages](https://img.shields.io/badge/githubpages-%23222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/githubpages-%23222222?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -81,6 +81,7 @@
 ### Frameworks & libraries
 ![Discord.js](https://img.shields.io/badge/Discord.js-11121D?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
@@ -92,6 +93,7 @@
 
 ### Tools
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/filezilla-%23BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
