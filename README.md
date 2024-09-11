@@ -81,6 +81,7 @@
 ### Frameworks & libraries
 ![Discord.js](https://img.shields.io/badge/Discord.js-11121D?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![Inertia](https://img.shields.io/badge/inertia-%239553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
