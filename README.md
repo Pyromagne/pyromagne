@@ -43,15 +43,17 @@
 
 ### Languages
 
-<img width="48" src="svgs/cplusplus-plain.svg"/>
-<img width="48" src="svgs/c-plain.svg"/>
-<img width="48" src="svgs/csharp-plain.svg"/>
-<img width="48" src="svgs/java-plain.svg"/>
-<img width="48" src="svgs/javascript-plain.svg"/>
-<img width="48" src="svgs/php-plain.svg"/>
-<img width="48" src="svgs/html5-plain.svg"/>
-<img width="48" src="svgs/css3-plain.svg"/>
-<img width="48" src="svgs/markdown-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
 
 <br><br><br>
 
@@ -59,6 +61,7 @@
 ![GitHub Pages](https://img.shields.io/badge/githubpages-%23222222?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -79,6 +82,7 @@
 <br>
 
 ### Frameworks & libraries
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&style=for-the-badge)
 ![Discord.js](https://img.shields.io/badge/Discord.js-11121D?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![Inertia](https://img.shields.io/badge/inertia-%239553E9?style=for-the-badge&logo=inertia&logoColor=white)
@@ -87,6 +91,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
 
 ### Environment & Platform
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
