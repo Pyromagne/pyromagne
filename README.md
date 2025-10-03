@@ -14,12 +14,12 @@
   <tr>
     <td>
       <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=pyromagne&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
+        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=pyromagne&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500&theme=swift" alt="github stats">
       </a>
     </td>
     <td>
       <a href="https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6">
-        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=pyromagne\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=8">
+        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=pyromagne\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=8&theme=swift">
       </a>
     </td>
   </tr>
