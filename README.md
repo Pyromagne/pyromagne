@@ -1,8 +1,4 @@
 <div align="center">
-    <h1>Pyromagne</h1>
-</div>
-
-<div align="center">
 
 [![Wakatime](https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@Pyromagne)
 [![GitHub Followers](https://img.shields.io/github/followers/pyromagne?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/Pyromagne)
