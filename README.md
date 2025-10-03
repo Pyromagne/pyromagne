@@ -1,15 +1,15 @@
-<center>
+<div align="center">
     <p style="font-size: 4rem">Pyromagne</p>
     <p style="font-size: 1.5rem">FULL-STACK DEVELOPER</p>
-</center>
+</div>
 
-<center>
+<div align="center">
 
   [![Wakatime](https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@Pyromagne)
   [![GitHub Followers](https://img.shields.io/github/followers/pyromagne?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/Pyromagne)
   [![GitHub Stars](https://img.shields.io/github/stars/pyromagne?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/Pyromagne)
   
-</center>
+</div>
 
 <table>
   <tr>
@@ -26,8 +26,8 @@
   </tr>
 </table>
 
-<center>
+<div align="center" style="background-color: white;">
   <a href="https://github.com/Pyromagne">
-    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyromagne&theme=tokyonight" alt="github stats">
+    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyromagne" alt="github stats">
   </a>
-</center>
+</div>
