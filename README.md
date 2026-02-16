@@ -10,12 +10,12 @@
   <tr>
     <td>
       <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-stats-extended.vercel.app/api?username=Pyromagne&hide_title=true&theme=transparent" alt="github stats">
+        <img style="width: 100%;" src="https://github-stats-extended.vercel.app/api?username=Pyromagne&hide_title=true&theme=transparent&hide_border=true" alt="github stats">
       </a>
     </td>
     <td>
       <a href="https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6">
-        <img align="right" style="width: 100%;" src="https://github-stats-extended.vercel.app/api/top-langs?username=Pyromagne&layout=compact&hide_title=true&langs_count=8&theme=transparent">
+        <img align="right" style="width: 100%;" src="https://github-stats-extended.vercel.app/api/top-langs?username=Pyromagne&layout=compact&hide_title=true&langs_count=8&theme=transparent&hide_border=true">
       </a>
     </td>
   </tr>
