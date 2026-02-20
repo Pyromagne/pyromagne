@@ -10,12 +10,12 @@
   <tr>
     <td>
       <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-stats-extended-frontend-tau.vercel.app/api?username=Pyromagne&hide_title=true&theme=transparent&hide_border=true" alt="github stats">
+        <img style="width: 100%; height: 192px" src="https://github-stats-extended-frontend-tau.vercel.app/api?username=Pyromagne&hide_title=true&theme=transparent&hide_border=true" alt="github stats">
       </a>
     </td>
     <td>
       <a href="https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6">
-        <img align="right" style="width: 100%;" src="https://github-stats-extended-frontend-tau.vercel.app/api/top-langs?username=Pyromagne&layout=compact&hide_title=true&langs_count=8&theme=transparent&hide_border=true">
+        <img align="right" style="width: 100%; height: 192px" src="https://github-stats-extended.vercel.app/api/top-langs?username=Pyromagne&layout=donut&hide_title=true&langs_count=5&theme=transparent&hide_border=true">
       </a>
     </td>
   </tr>
@@ -23,9 +23,16 @@
 
 <div align="center">
   <a href="https://github.com/Pyromagne">
+    <img style="width: 100%; height: 192px" src="https://github-stats-extended.vercel.app/api/wakatime?username=pyromagne&layout=compact&hide_title=true&langs_count=10&theme=transparent&hide_border=true" alt="github stats">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Pyromagne">
     <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyromagne&theme=swift" alt="github stats">
   </a>
 </div>
+
 
 <br />
 
